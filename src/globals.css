@@ -1,0 +1,61 @@
+.add-user {
+    height: 200px;
+    padding: 10px;
+    border: 1px solid orange;
+}
+
+.display-user {
+    height: 200px;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid orange;
+    padding-left: 50px;
+    overflow-y: scroll;
+}
+
+.api-display-user {
+    height: 320px;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid orange;
+    padding-left: 50px;
+    overflow-y: scroll;
+}
+
+.add-user-input {
+    width: 250px;
+    height: 35px;
+    display: block;
+}
+
+.add-user-btn {
+    width: 250px;
+    height: 35px;
+    display: block;
+    margin-top: 20px;
+}
+
+.user-item {
+    background-color: skyblue;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.api-user-item {
+    background-color: skyblue;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.api-item {
+    display: flex;
+    justify-content: space-between;
+}
